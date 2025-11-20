@@ -2,9 +2,9 @@
 
 PicoPlay is a DIY handheld gaming console built on the Raspberry Pi Pico (RP2040). This is the first iteration (v1). The firmware is currently a single-file Arduino sketch featuring a dual-mode system that functions as both a standalone console and a USB HID Gamepad.
 
-![Device View 1](images/main_menu.jpg)
-![Device View 2](images/controller_mode.jpg)
-![Device View 3](images/about.jpg)
+## 📸 Gallery
+
+[📂 View all Project Images](./images/)
 
 ## 📂 Repository Structure
 
